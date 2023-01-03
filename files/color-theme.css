@@ -20,8 +20,8 @@
   --color-nav-background: var(--color-foreground);
   --color-nav-text: var(--color-text);
   --color-background: 13, 0, 0;
-  --color-foreground: 15, 22, 31, 0.9;
-  --color-foreground-grey: 15, 22, 31, 0.9;
+  --color-foreground: 15, 22, 31, 1;
+  --color-foreground-grey: 15, 22, 31, 1;
   --color-foreground-grey-dark: var(--color-background);
   --color-text: 133, 133, 133;
   --color-text-light: 143, 143, 143;
