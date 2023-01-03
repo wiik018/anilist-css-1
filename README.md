@@ -37,7 +37,7 @@ Here you can put the complete CSS or choose some parts
 
 - For the full CSS use:
 ```css
-@import url(https://mentor404.github.io/anilist-css/main.css);
+@import url(https://wiik018.github.io/anilist-css-1/main.css);
 ```
 
 - If you want specific parts
