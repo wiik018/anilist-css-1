@@ -19,7 +19,7 @@
   --genre-orange: 252, 173, 135;
   --color-nav-background: var(--color-foreground);
   --color-nav-text: var(--color-text);
-  --color-background: 252, 173, 135;
+  --color-background: 15, 22, 31;
   --color-foreground: 15, 22, 31, 0.9;
   --color-foreground-grey: 15, 22, 31, 0.9;
   --color-foreground-grey-dark: var(--color-background);
