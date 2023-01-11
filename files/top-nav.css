@@ -1,5 +1,5 @@
 .nav.nav-unscoped{
-  background: rgb(252, 173, 135, 0.5) !important;
+  background: rgb(15, 22, 31, 0.5) !important;
   max-width: 1320px !important;
   padding-left: 100px !important;
   padding-right: 100px !important;
@@ -22,7 +22,7 @@ scale: 1.3;
 }
 
 .nav.nav-unscoped:hover{
-  background: rgb(252, 173, 135,.9) !important;
+  background: rgb(15, 22, 31, 0.9) !important;
 } 
 
 @media (min-width: 1040px) and (max-width: 1540px){
